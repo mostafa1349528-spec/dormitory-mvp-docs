@@ -1,4 +1,4 @@
-# MVP Scope v0.1
+# MVP Scope – Draft (v0.0)
 
 ## 1. هدف MVP
 هدف این MVP اثبات این فرض کلیدی است:
