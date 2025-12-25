@@ -1,4 +1,4 @@
-# Product Roadmap – v0.1
+# Product Roadmap – v0.0
 
 این سند نقشه راه محصول بر اساس **MVP Scope v0.1 (Locked)** و **BMC v0.1 (Locked)** است.
 هدف: حرکت کنترل‌شده از حل مسئله اصلی به مقیاس‌پذیری و درآمد پایدار، بدون Feature Creep.
